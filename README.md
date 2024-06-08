@@ -7,3 +7,4 @@
 `git status` checks on the status of the working files <br>
 `git add {{file_name}}` stages the specified files to be committed <br>
 `git commit -m "commit title" ` this is the subject or title of the commit <br>
+`git push ` Sends changes to the remote respository in github
