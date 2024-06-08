@@ -6,3 +6,4 @@
 `git remote -v` check the remote origin <br>
 `git status` checks on the status of the working files <br>
 `git add {{file_name}}` stages the specified files to be committed <br>
+`git commit -m "commit title" ` this is the subject or title of the commit <br>
